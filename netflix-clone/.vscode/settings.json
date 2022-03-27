@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.commandsToSkipShell": [
+    "\"folders\": [],     \"settings\": {         \"emmet.includeLanguages\": {            \"javascript\": \"javascriptreact\"         }      }"
+  ]
+}
